@@ -26,6 +26,6 @@ DONOS DO REPOSITÓRIOS: Adrian e Natan | adrian-feijo-fagundes | N4atan
  
  - [DUDA](https://github.com/Duda0810/TrabalhoGit2)
  
- - [GUSTAVO](https://Gukisz/codigo-git)
+ - [GUSTAVO](https://github.com/Gukisz/codigo-git)
  
  - [PEDRO]()
