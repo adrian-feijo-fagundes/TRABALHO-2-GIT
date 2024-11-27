@@ -18,7 +18,9 @@ DONOS DO REPOSITÓRIOS: Adrian e Natan | adrian-feijo-fagundes | N4atan
  
  - [MATHEUS E STEVÃO](https://github.com/matheusbmtt/Trabalho-GIT2)
  
- - [YAGO E LEONARDO]()
+ - [LEONARDO](https://github.com/leoebc1/trabalhoGit)
+
+ - [YAGO]()
  
  - [ARIEL E EMANUEL](https://github.com/ARIELLO24/ariel-git)
         - Foi concluído - Adrian
