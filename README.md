@@ -12,20 +12,22 @@ DONOS DO REPOSITÓRIOS: Adrian e Natan | adrian-feijo-fagundes | N4atan
 
  - [JEANDERSON E ROGÉRIO](https://github.com/eldorado1959/TrabalhoPratico2)
  
- - [ARTHUR E GUILHERME]()
+ - [ARTHUR]()
+
+ - [GUILHERME]()
  
  - [MATHEUS E STEVÃO](https://github.com/matheusbmtt/Trabalho-GIT2)
  
  - [YAGO E LEONARDO]()
  
  - [ARIEL E EMANUEL](https://github.com/ARIELLO24/ariel-git)
- 
+        - Foi concluído - Adrian
  - [MARI]()
  
  - [FELIPE](https://github.com/fificici/TDS241N-UC10-Trabalho2)
- 
+        - Foi concluído - Natan
  - [DUDA](https://github.com/Duda0810/TrabalhoGit2)
  
  - [GUSTAVO](https://github.com/Gukisz/codigo-git)
- 
+        - Foi concluído - Natan
  - [PEDRO]()
