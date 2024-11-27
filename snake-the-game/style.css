@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(161, 141, 141);
+}
+
+.game-container {
+    border: 10px solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    background-color: black;
+    position: relative;
+    height: 580px 500px;
+}
+
+canvas {
+    display: block;
+    border: 5px solid rgb(255, 0, 0);
+    border-radius: 15px 15px 15px 15px;
+    background-color: rgb(50, 2, 112);
+}
+
+button {
+    margin-bottom: 5px;
+    font-size: 20px;
+    background-color: #22e514;
+    border-radius: 40px;
+    border: none;
+    padding: 10px;
+    width: 50%;
+    font-family: monospace;
+    color: white;
+    position: relative;
+}
+
+ button:hover {
+    background-color: blue;
+ }
+
+.score-message {
+    position: absolute;
+    top: -10%; /* Posiciona o elemento no centro vertical */
+    left: 30%; /* Posiciona o elemento no centro horizontal */
+    transform: translate(-50%, -50%); /* Move o elemento de volta pela metade da sua largura e altura, para que fique completamente centralizado */
+    background-color: rgb(15, 209, 8); /* Cor de fundo com transparência */
+    padding: 10px; /* Espaçamento interno */
+    font-size: 30px; /* Tamanho da fonte */
+    color: rgb(3, 3, 3); /* Cor do texto */
+    border-radius: 10px;
+    height: 40px;
+}
+
+.score-message2 {
+    position: absolute;
+    top: -10%; /* Posiciona o elemento no centro vertical */
+    left: 60%; /* Posiciona o elemento no centro horizontal */
+    transform: translate(-50%, -50%); /* Move o elemento de volta pela metade da sua largura e altura, para que fique completamente centralizado */
+    background-color: rgba(0, 0, 0, 0.973); /* Cor de fundo com transparência */
+    padding: 10px; /* Espaçamento interno */
+    font-size: 30px; /* Tamanho da fonte */
+    color: rgb(9, 21, 189); /* Cor do texto */
+    border-radius: 10px;
+    height: 40px;
+}
+
