@@ -12,9 +12,9 @@ DONOS DO REPOSITÓRIOS: Adrian e Natan | adrian-feijo-fagundes | N4atan
 
  - [JEANDERSON E ROGÉRIO](https://github.com/eldorado1959/TrabalhoPratico2)
  
- - [ARTHUR]()
+ - [ARTHUR](https://github.com/arthur-manske/aula-git-11-18)
 
- - [GUILHERME]()
+ - [GUILHERME](https://github.com/Kellernz/eu-fumo-pedra)
  
  - [MATHEUS E STEVÃO](https://github.com/matheusbmtt/Trabalho-GIT2)
  
