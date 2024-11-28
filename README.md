@@ -16,7 +16,7 @@ DONOS DO REPOSITÓRIOS: Adrian e Natan | adrian-feijo-fagundes | N4atan
  - [ARTHUR](https://github.com/arthur-manske/aula-git-11-18)
 
  - [GUILHERME](https://github.com/Kellernz/eu-fumo-pedra)
- 
+       - Foi concluído - Adrian
  - [MATHEUS E STEVÃO](https://github.com/matheusbmtt/Trabalho-GIT2)
  
  - [LEONARDO](https://github.com/leoebc1/trabalhoGit)
