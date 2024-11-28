@@ -11,6 +11,7 @@ DONOS DO REPOSITÓRIOS: Adrian e Natan | adrian-feijo-fagundes | N4atan
  - [LUCAS E LEANDRO](https://github.com/lucasdocurso/TRABALHO-GIT-2)
 
  - [JEANDERSON E ROGÉRIO](https://github.com/eldorado1959/TrabalhoPratico2)
+        - Foi concluído - Adrian
  
  - [ARTHUR](https://github.com/arthur-manske/aula-git-11-18)
 
